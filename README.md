@@ -1,2 +1,2 @@
 # ALX Interview 
-0x00. Pascal's Triangle
+0x02 Minimum operations
